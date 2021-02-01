@@ -1,5 +1,7 @@
 # iperf3:  A TCP, UDP, SCTP, and VSOCK network bandwidth measurement tool
 
+Fork iperf-vsock to support vsock dgram.
+
 This repository is a fork of [iperf3](https://github.com/esnet/iperf) with
 VSOCK support.
 
